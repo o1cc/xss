@@ -1,4 +1,4 @@
-function ManageUser_i(tuserALLid) {
+function ManageUser(tuserALLid) {
 
     //return false;
     alert("inject sucess");
